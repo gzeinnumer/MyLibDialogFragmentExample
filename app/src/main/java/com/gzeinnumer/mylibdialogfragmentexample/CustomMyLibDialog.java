@@ -9,7 +9,7 @@ import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.gzeinnumer.mylibdialogfragment.MyLibDialog;
+import com.gzeinnumer.edf.MyLibDialog;
 
 public class CustomMyLibDialog extends MyLibDialog {
 
